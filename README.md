@@ -1,0 +1,2 @@
+# ForFun
+fun short project
