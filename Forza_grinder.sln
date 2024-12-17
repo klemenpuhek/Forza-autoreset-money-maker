@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forza_grinder", "Forza_grinder.csproj", "{A3D8D0A6-1282-4C3D-A2DB-0AA1B7F32FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D8D0A6-1282-4C3D-A2DB-0AA1B7F32FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D8D0A6-1282-4C3D-A2DB-0AA1B7F32FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D8D0A6-1282-4C3D-A2DB-0AA1B7F32FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D8D0A6-1282-4C3D-A2DB-0AA1B7F32FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4644ED4-DA3B-452E-91BA-BDCFDE51C85D}
+	EndGlobalSection
+EndGlobal
